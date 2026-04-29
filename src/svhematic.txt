@@ -1,0 +1,15 @@
+LCD Pin    Name        Connect to
+────────────────────────────────────
+Pin 1      VSS         GND
+Pin 2      VDD         5V
+Pin 3      V0          GND (contrast — fixed at max)
+Pin 4      RS          GPIO 19
+Pin 5      RW          GND (always write mode)
+Pin 6      EN          GPIO 23
+Pin 7-10   D0-D3       Not connected (4-bit mode)
+Pin 11     D4          GPIO 13
+Pin 12     D5          GPIO 12
+Pin 13     D6          GPIO 14
+Pin 14     D7          GPIO 27
+Pin 15     A (LED+)    5V via 220Ω resistor
+Pin 16     K (LED-)    GND

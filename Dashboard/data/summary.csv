@@ -1,0 +1,4 @@
+zone,count,dist_mean,dist_min,dist_max
+DANGER,25,16.18,6.7,28.8
+SAFE,16,130.74,100.2,184.2
+WARNING,79,65.76,62.1,99.0
